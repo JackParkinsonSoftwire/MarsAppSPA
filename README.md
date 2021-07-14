@@ -1,2 +1,2 @@
-# MarsAppSPA
-An app which fetches NASA photos.
+# MarsAppUI
+Learning how to MarsApp.
